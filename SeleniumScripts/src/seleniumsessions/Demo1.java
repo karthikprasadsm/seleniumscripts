@@ -24,6 +24,7 @@ public class Demo1 {
         driver1.get("http://www.google.com");
         driver1.close();
         
+        
 	}
 
 }
